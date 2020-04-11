@@ -253,7 +253,7 @@ def super():
 	print logo
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m1.\x1b[1;94mClone From Friend List."
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m2.\x1b[1;94mClone Friend List Public ID."
-	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m0.\033[1;97mBack"
+	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m0.\033[1;97mlogout"
 	pilih_super()
 
 def pilih_super():
